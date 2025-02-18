@@ -1,1 +1,2 @@
-# adc
+Quando a simulação é iniciada, o quadrado aparece centralizado no display e se move nos eixos X e Y de acordo com a direção do joystick. Enquanto o joystick é movimentado, os LEDs vermelho e azul acendem proporcionalmente ao movimento nos eixos X e Y, respectivamente. Ao pressionar o botão do joystick, o LED verde é acionado e a borda do display exibe uma animação diferente. O pushbutton, por sua vez, liga e desliga os LEDs vermelho e azul.
+Segue o link do vídeo de demonstração: https://youtu.be/s4CHIeReChE
